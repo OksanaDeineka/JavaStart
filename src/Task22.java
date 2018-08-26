@@ -19,6 +19,12 @@ public class Task22 {
         System.out.println(h);
         int m = i%b;
         System.out.println(m);
+        int lo = b*b;
+        System.out.println(lo);
+        int q = i+b;
+        int li = q%i;
+        System.out.println(li);
+
 
     }
 
