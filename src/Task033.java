@@ -10,5 +10,8 @@ public class Task033 {
         a[1]= ko.nextInt();
         a[2]= ko.nextInt();
         a[3]= ko.nextInt();
+
+        int len = a.length;
+        System.out.println(len);
     }
 }
