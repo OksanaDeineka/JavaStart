@@ -7,9 +7,7 @@ public class Task22 {
         int i = scanner.nextInt();
         System.out.print("Enter integer:");
         int b = scanner.nextInt();
-        System.out.print("Enter integer:");
-        int c = scanner.nextInt();
-        int r = i+b+c;
+        int r = i+b;
         System.out.println(r);
         int g = i-b;
         System.out.println(g);
